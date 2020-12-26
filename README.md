@@ -4,9 +4,9 @@
 
 
 <h2>Run in your computer</h2>
-1. Clone the Repository<br>
-2. install environment requirement<br>
-3. Run server command <br><br><br>
+1. <p style="color:Green">Clone the Repository<br></p>
+2. <p style="color:Green">install environment requirement<br></p>
+3  <p style="color:Green"> Run server command <br><br><br></p>
 <h3> Note </h3>
 <p><i> The following description works only for Local Computer
 If you Want to productionize your project You need to create virtual environment and make some changes in code .</i></p>
