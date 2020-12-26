@@ -7,6 +7,9 @@
 1. Clone the Repository<br>
 2. install environment requirement<br>
 3. Run server command <br><br><br>
+<h3> Note </h3>
+<p><i> The following description works only for Local Computer
+If you Want to productionize your project You need to create virtual environment and make some changes in code .</i></p>
 
 1. Clone the repository 
 Press on Download Repository , for download the whole file in your computer .<br>
