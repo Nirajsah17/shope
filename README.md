@@ -13,10 +13,10 @@ If you Want to productionize your project You need to create virtual environment
 
 1.<p> Clone the repository 
 Press on Download Repository , for download the whole file in your computer .<br>
-Note : make sure you don't make any changes in your downloaded file .<br><br><br></b>
+Note : make sure you don't make any changes in your downloaded file .<br><br><br></p>
 
 
-2. <b>Installing Environment requirement<br>
+2. <p>Installing Environment requirement<br>
 Download Python 3.x version from python.org<br>
 after installing the python goto the python terminal and install Django latest version <br>
 e.g -  pip install django . it will install django in your python environment <br>
@@ -25,7 +25,7 @@ Till Now You are good to go <br><br><br><br>
 Create folder named shope and put all the clone file in this folder .<br>
 Goto python terminal and change your directory to your project directory i.e shope <br>
 
-eg. C:\Users\Lenovo>cd C:\Users\Lenovo\Desktop\shope<br><br><br><br></b>
+eg. C:\Users\Lenovo>cd C:\Users\Lenovo\Desktop\shope<br><br><br><br></p>
 
 
 
